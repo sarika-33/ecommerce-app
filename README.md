@@ -1,26 +1,51 @@
-# E-Commerce Website (React)
+# 🛒 ShopEasy – React E-Commerce Website
 
-## Live Demo
-(Add your deployed link here)
+A complete React-based E-Commerce web application built as a **Week-7 Capstone Project**.
 
-## Features
-- Product listing from FakeStore API
-- Search and category filter
-- Product details page
-- Cart functionality
+---
+
+## 🚀 Live Demo
+👉 https://dulcet-griffin-0dbc1a.netlify.app
+
+---
+
+## 📌 Features
+
+- Product Listing using FakeStore API
+- Search, Filter, and Sort products
+- Product Details page
+- Cart functionality (Add / Remove / Update)
 - Checkout form with validation
-- Dark / Light mode using Zustand
-- Responsive design
+- Light & Dark Mode
+- Responsive design (Mobile, Tablet, Desktop)
+- Deployed live using Netlify
 
-## Tech Stack
+---
+
+## 🛠 Tech Stack
+
 - React
-- Zustand
+- JavaScript
 - CSS
 - FakeStore API
+- Zustand (Global State)
+- Netlify (Deployment)
 
-## Screenshots
-![Home](screenshots/home.png)
-![Product](screenshots/product.png)
-![Cart](screenshots/cart.png)
-![Checkout](screenshots/checkout.png)
-![Dark Mode](screenshots/darkmode.png)
+---
+
+## 📸 Screenshots
+
+### Home Page
+![Home](src/screenshots/Home-Page.png)
+
+### Product Details
+![Details](src/screenshots/Product-Details.png)
+
+### Cart Page
+![Cart](src/screenshots/Cart-Page.png)
+
+### Checkout Page
+![Checkout](src/screenshots/Checkout-Page.png)
+
+### Dark Mode
+![Dark](src/screenshots/Dark-theme.png)
